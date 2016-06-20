@@ -9,3 +9,6 @@ Fork this and add your own stuff to it - open a pull request for things that you
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/oisin/app-release-checklist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Join the chat at https://gitter.im/dylanbeadle/app-release-checklist](https://badges.gitter.im/dylanbeadle/app-release-checklist.svg)](https://gitter.im/dylanbeadle/app-release-checklist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
